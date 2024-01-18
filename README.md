@@ -1,3 +1,3 @@
 # Angular-PrimeiroPassos-Stackblitz
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/DhyanaIris/Angular-PrimeiroPassos-Stackblitz)
+Primeiro passos com Angular usando a plataforma StackBlitz. Feito como acompanhamento do Bootcamp de Angular da DIO.
